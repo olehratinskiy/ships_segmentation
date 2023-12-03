@@ -1,8 +1,8 @@
 # ships_segmentation
 
-###This project uses UNet model to segment ships on images.
+### This project uses UNet model to segment ships on images.
 
-####Its structure:
+#### Its structure:
 1) train_model.py - file with loading and preprocessing data, model creation and training.
 2) test_model.py - file which loads model from file and gets prediction. Also uses dice score to check prediction accuracy.
 3) ships-segmentation.ipynb - notebook with combined code from previous two files and some ntermediate steps.
