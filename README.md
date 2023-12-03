@@ -8,7 +8,7 @@
 3) ships-segmentation.ipynb - notebook with combined code from previous two files and some ntermediate steps.
 4) requirements.txt - file with all libraries used in project
 
-### To run and test this project you need:
+#### To run and test you need:
 1) clone this repo
 2) install all requirements stated in requirements.txt
 3) create data folder, place in it train_ship_segmentations_v2.csv and also create inside data folder train_v2 with all original stellite images 
